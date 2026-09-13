@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "52659520391",
+    "project_id": "hader-app2",
+    "storage_bucket": "hader-app2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52659520391:android:34b4a610ae215dd9c24922",
+        "android_client_info": {
+          "package_name": "com.example.hadeer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChck4OQMNvNM0mgYyuwxeb3qczXkH7AHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
